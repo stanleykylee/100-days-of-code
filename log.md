@@ -1,30 +1,34 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: December 28, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+#### Today's Progress
+First day, completed one 30 days of code challenge from HackerRank.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+#### Thoughts
+Struggled a bit with getting back into the groove of things. For example, forgot to use the Scanner to get input instead of just using System.in.read().
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+#### Links to Work
+* N/A
 
 
-### Day 1: June 27, Monday
+### Day 2: December 29, 2017
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+#### Today's Progress
+Completed another day of 30 days of code challenge from HackerRank. Started looking at the FreeCodeCamp's Back End Development Certification. Completed Automated Testing and Debugging portion.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+#### Thoughts
+While I was able to complete the challenge using my own methods, reading the discussions I noticed that there are better ways to complete the challenge. For this instance, I should store the values in an Array and then sort it to find the max value instead of iterating through comparisons. Using the array would be more efficient and accurate.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+#### Links to Work
+* [Day 11 - 2D Arrays Solution](java/r1d2-d11-2d-arrays.java)
+
+
+### Day X: XXX ##, ####
+
+#### Today's Progress
+
+#### Thoughts
+
+#### Links to Work
+* []()
