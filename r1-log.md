@@ -9,3 +9,6 @@ Easing myself into the challenge, started by picking up where I left off previou
 
 ### R1D2
 Didn't get through as much as I would have wanted but I completed the Day 11: 2D Arrays of the 30 Days of Code Challenge from HackerRank.
+
+### R1D3
+Got through Day 12: Inheritance today. Got stuck a bit on the constructor, didn't understand fully about the use of super and read a bit more about it. Was a good learning experience and will most likely follow up on the discussions of the day.
