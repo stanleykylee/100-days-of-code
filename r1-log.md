@@ -12,3 +12,6 @@ Didn't get through as much as I would have wanted but I completed the Day 11: 2D
 
 ### R1D3
 Got through Day 12: Inheritance today. Got stuck a bit on the constructor, didn't understand fully about the use of super and read a bit more about it. Was a good learning experience and will most likely follow up on the discussions of the day.
+
+### R1D4
+#100DaysOfCode Happy New Year's everyone! Super day today, I completed 3 of the 30 days of code from @hackerrank. Planning to plow through the rest and head onto my next goals - Learning R! Check out my updated log!
