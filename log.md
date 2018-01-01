@@ -78,7 +78,7 @@ Today was on the lighter side of things as I spent more time on the Jenkins decl
 ## #30daysofcode
 
 ### Today's Progress
-Completed three days of the 30 days of code challenge today! It's New Year's Even but I thought why not? Let's push through this and get to the next goals.
+Completed three days of the 30 days of code challenge today! It's New Year's Eve but I thought why not? Let's push through this and get to the next goals.
 
 ### Thoughts
 In doing some of these challenges from HackerRank I found that one of the more difficult things was trying to debug the code. Without a proper development environment, I had to relay on quite a bit of System.out.println() to see what was happening. Something else that I am noticing is that the time spent reading the editorials after I complete a challenge has been helpful. Seeing other people's insights into the problem and challenge gave me new insights. I will continue to spend time reading through the editorials as I complete the challenges.
