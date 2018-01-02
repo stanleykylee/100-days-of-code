@@ -87,3 +87,18 @@ In doing some of these challenges from HackerRank I found that one of the more d
 * [Day 13 - Abstract Classes](java/r1d4-d13-abstract-classes.java)
 * [Day 14 - Scope](java/r1d4-d14-scope.java)
 * [Day 15 - Linked List](java/r1d4-d15-linked-list.java)
+
+# Day 5: Monday, January 1, 2018
+
+## #30daysofcode #8kyu
+
+### Today's Progress
+Completed two more days of the 30 days of code challenge. I took a small break to try out codewars and completed one 8 kyu python kata.
+
+### Thoughts
+I really liked the Codewars kata and the whole concept of katas and using the kyu/dan system. I may be a bit biased as I've always had an interest in Go but never got really good at it. This could be my way to go up the ranks while practicing coding. I also liked being able to see other people's solutions on the platform. I'm looking forward to discussing with others about these solutions and to learn from these experiences.
+
+### Links to Work
+* [Day 16 - Exceptions - String to Integer](java/r1d5-d16-exceptions-string-to-integer.java)
+* [Day 17 - More Exceptions](java/r1d5-d17-more-exceptions.java)
+* [8 kyu - Multiple of Index](python/r1d5-8kyu-multiple-of-index.py)

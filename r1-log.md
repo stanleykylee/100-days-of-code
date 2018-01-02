@@ -15,3 +15,6 @@ Got through Day 12: Inheritance today. Got stuck a bit on the constructor, didn'
 
 ### R1D4
 #100DaysOfCode #R1D4 Happy New Year's everyone! Super day today, I completed 3 of the 30 days of code from @hackerrank. Planning to plow through the rest and head onto my next goals - Learning R! Check out my updated log!
+
+### R1D5
+#100DaysOfCode #R1D5 New Year's Day! What a start to 2018. Completed another 2 days of the 30 days of code challenge, I'm past the halfway mark now and only 13 challenges to go! I also took the time to visit Codewars and completed one kata. Can't wait to do more.
