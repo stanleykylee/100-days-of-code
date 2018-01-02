@@ -1,6 +1,7 @@
 Table of Contents
 =================
 
+   * [Table of Contents](#table-of-contents)
    * [100 Days Of Code Log](#100-days-of-code-log)
    * [Day 1: Thursday, December 28, 2017](#day-1-thursday-december-28-2017)
       * [#30daysofcode](#30daysofcode)
@@ -22,6 +23,11 @@ Table of Contents
          * [Today's Progress](#todays-progress-3)
          * [Thoughts](#thoughts-3)
          * [Links to Work](#links-to-work-3)
+   * [Day 5: Monday, January 1, 2018](#day-5-monday-january-1-2018)
+      * [#30daysofcode #8kyu](#30daysofcode-8kyu)
+         * [Today's Progress](#todays-progress-4)
+         * [Thoughts](#thoughts-4)
+         * [Links to Work](#links-to-work-4)
 
 Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
