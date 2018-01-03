@@ -18,3 +18,6 @@ Got through Day 12: Inheritance today. Got stuck a bit on the constructor, didn'
 
 ### R1D5
 #100DaysOfCode #R1D5 New Year's Day! What a start to 2018. Completed another 2 days of the 30 days of code challenge, I'm past the halfway mark now and only 13 challenges to go! I also took the time to visit Codewars and completed one kata. Can't wait to do more.
+
+### R1D6
+#100DaysOfCode #R1D6 Taking a break today from 30 days of code challenges and registered for Johns Hopkins' R Programming course. Spent time setting up my environment and watching videos. I'm auditing it for now, but maybe I'll upgrade later?

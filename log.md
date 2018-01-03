@@ -28,6 +28,11 @@ Table of Contents
          * [Today's Progress](#todays-progress-4)
          * [Thoughts](#thoughts-4)
          * [Links to Work](#links-to-work-4)
+   * [Day 5: Tuesday, January 2, 2018](#day-5-tuesday-january-2-2018)
+      * [#r #pipeline #docker](#r-pipeline-docker)
+         * [Today's Progress](#todays-progress-5)
+         * [Thoughts](#thoughts-5)
+         * [Links to Work](#links-to-work-5)
 
 Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
@@ -108,3 +113,16 @@ I really liked the Codewars kata and the whole concept of katas and using the ky
 * [Day 16 - Exceptions - String to Integer](java/r1d5-d16-exceptions-string-to-integer.java)
 * [Day 17 - More Exceptions](java/r1d5-d17-more-exceptions.java)
 * [8 kyu - Multiple of Index](python/r1d5-8kyu-multiple-of-index.py)
+
+# Day 5: Tuesday, January 2, 2018
+
+## #r #pipeline #docker
+
+### Today's Progress
+Registered for and started the Johns Hopkins R Programming Coursera course.
+
+### Thoughts
+I need to prepare for my upcoming course which will use R programming. So hopefully I am able to fast track this 4 week program and get a head start for my future coursework. It felt like a bit of a cheat day in terms of coding, but I was able to spend some time working on a side project. That project mostly contained working with Jenkins pipeline code and running a Flask Application in Docker. So there was some learning done there. Tomorrow I will catch up with the 30 days of code and aim for at least one more kata!
+
+### Links to Work
+* [Johns Hopkins R Programming](https://www.coursera.org/learn/r-programming)
