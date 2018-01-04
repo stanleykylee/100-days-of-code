@@ -28,7 +28,7 @@ Table of Contents
          * [Today's Progress](#todays-progress-4)
          * [Thoughts](#thoughts-4)
          * [Links to Work](#links-to-work-4)
-   * [Day 5: Tuesday, January 2, 2018](#day-5-tuesday-january-2-2018)
+   * [Day 6: Tuesday, January 2, 2018](#day-5-tuesday-january-2-2018)
       * [#r #pipeline #docker](#r-pipeline-docker)
          * [Today's Progress](#todays-progress-5)
          * [Thoughts](#thoughts-5)
@@ -114,7 +114,7 @@ I really liked the Codewars kata and the whole concept of katas and using the ky
 * [Day 17 - More Exceptions](java/r1d5-d17-more-exceptions.java)
 * [8 kyu - Multiple of Index](python/r1d5-8kyu-multiple-of-index.py)
 
-# Day 5: Tuesday, January 2, 2018
+# Day 6: Tuesday, January 2, 2018
 
 ## #r #pipeline #docker
 
@@ -126,3 +126,16 @@ I need to prepare for my upcoming course which will use R programming. So hopefu
 
 ### Links to Work
 * [Johns Hopkins R Programming](https://www.coursera.org/learn/r-programming)
+
+# Day 7: Wednesday, January 3, 2018
+
+## #30daysofcode
+
+### Today's Progress
+Just one day of challenges completed today.
+
+### Thoughts
+I didn't have access to my regular system today and had to work on another person's laptop. Even though checking out the repositories and working on the code can be done, I found that without the environment that I am used to, it just didn't feel the same. Other than that, I did complete one challenge from the 30 days of code challenge. Today I worked on stacks and queues. While I'm sure the challenge would have asked me to use Stack and LinkedList, I ended up learning about ArrayDeque. Apparently this is much quicker and does both all in one!
+
+### Links to Work
+* [Day 18 - Queues and Stacks](java/r1d7-d18-queues-and-stacks.java)

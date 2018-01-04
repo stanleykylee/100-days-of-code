@@ -21,3 +21,6 @@ Got through Day 12: Inheritance today. Got stuck a bit on the constructor, didn'
 
 ### R1D6
 #100DaysOfCode #R1D6 Taking a break today from 30 days of code challenges and registered for Johns Hopkins' R Programming course. Spent time setting up my environment and watching videos. I'm auditing it for now, but maybe I'll upgrade later?
+
+### R1D7
+#100DaysOfCode #R1D7 A bit late to update but was working on a buddy's system as I didn't have access to my own system. However, did complete one challenge and learned about ArrayDeque for Java! Cool stuff!
