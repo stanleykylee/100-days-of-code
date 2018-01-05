@@ -24,3 +24,6 @@ Got through Day 12: Inheritance today. Got stuck a bit on the constructor, didn'
 
 ### R1D7
 #100DaysOfCode #R1D7 A bit late to update but was working on a buddy's system as I didn't have access to my own system. However, did complete one challenge and learned about ArrayDeque for Java! Cool stuff!
+
+### R1D8
+#100DaysOfCode #R1D8 Learning day today, started using Enki app, MOOC course on R and CS50 started and last but not least, started a side project to create Shopify Apps!

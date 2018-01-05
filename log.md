@@ -139,3 +139,17 @@ I didn't have access to my regular system today and had to work on another perso
 
 ### Links to Work
 * [Day 18 - Queues and Stacks](java/r1d7-d18-queues-and-stacks.java)
+
+# Day 8: Thursday, January 4, 2018
+
+## #enki #shopifyapp #mooc
+
+### Today's Progress
+Learn by using Enki, started a side project and class started!
+
+### Thoughts
+Did something different today and spent time with another App I found, Enki. It provides a good overview of different programming data structures and algorithms. It provides this knowledge through what they call workouts. Short snippets of knowledge delivered through small lessons. I will continue to work on these workouts to strengthen my knowledge.
+
+Aside from that I spent some additional time thinking about a side project I want to start. After some discussions with a few friends, I decided that I want to try creating a shopify app. I took a couple of steps in this direction already and created a developer account on Shopify. I also went through a bit of their tutorial on the APIs. Hopefully this will continue tomorrow and I will start creating a basic app.
+
+Lastly, my MOOC courses started this week. I will be learning about R and CS in general. I hpoe this will not impede on my 100 days of code challenge too much.
