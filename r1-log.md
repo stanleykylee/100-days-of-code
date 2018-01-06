@@ -29,4 +29,4 @@ Got through Day 12: Inheritance today. Got stuck a bit on the constructor, didn'
 #100DaysOfCode #R1D8 Learning day today, started using Enki app, MOOC course on R and CS50 started and last but not least, started a side project to create Shopify Apps!
 
 ### R1D9
-#100DaysOfCode #R1D9 SUPER DAY!!! Six days down of the 30 days of code challenge from @hackerrank. I'm now on day 25, which means I can possibly complete this tomorrow! Go go go!
+#100DaysOfCode #R1D9 KILLED IT!!! Six days down of the 30 days of code challenge from @hackerrank. I'm now on day 25, which means I can possibly complete this tomorrow! Go go go!

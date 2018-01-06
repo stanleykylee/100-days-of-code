@@ -153,3 +153,24 @@ Did something different today and spent time with another App I found, Enki. It 
 Aside from that I spent some additional time thinking about a side project I want to start. After some discussions with a few friends, I decided that I want to try creating a shopify app. I took a couple of steps in this direction already and created a developer account on Shopify. I also went through a bit of their tutorial on the APIs. Hopefully this will continue tomorrow and I will start creating a basic app.
 
 Lastly, my MOOC courses started this week. I will be learning about R and CS in general. I hpoe this will not impede on my 100 days of code challenge too much.
+
+### Links to Work
+* N/A
+
+# Day 9: Friday, January 5, 2018
+
+## #30daysofcode
+
+### Today's Progress
+Worked on 30 days of code and did some MOOC learning
+
+### Thoughts
+Push, push, push! Did 6 days worth of the 30 days of code challenge today. A lot of these had to do with linked lists and the challenge I did a couple of days ago help a lot. Also, the readings I was doing on Enki surprisingly helped on one of the challenges, specially on finding multiples, came back to. I'm starting to feel that doing these daily are providing results. While these are still just helping with future challenges, I'm sure there will soon be a time where I will be using these to help with live projects.
+
+### Links to Work
+* [Day 19 - Interfaces](java/r1d9-d19-interfaces.java)
+* [Day 20 - Sorting](java/r1d9-d20-sorting.java)
+* [Day 21 - Generics](java/r1d9-d21-generics.java)
+* [Day 22 - Binary Search Trees](java/r1d9-d22-binary-search-trees.java)
+* [Day 23 - BST Level-Order Transversal](java/r1d9-d23-bst-level-order-transveral.java)
+* [Day 24 - More Linked Lists](java/r1d9-d24-more-linked-lists.java)
