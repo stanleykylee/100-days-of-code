@@ -33,6 +33,26 @@ Table of Contents
          * [Today's Progress](#todays-progress-5)
          * [Thoughts](#thoughts-5)
          * [Links to Work](#links-to-work-5)
+   * [Day 7: Wednesday, January 3, 2018](#day-7-wednesday-january-3-2018)
+      * [#30daysofcode](#30daysofcode-3)
+         * [Today's Progress](#todays-progress-6)
+         * [Thoughts](#thoughts-6)
+         * [Links to Work](#links-to-work-6)         
+   * [Day 8: Thursday, January 4, 2018](#day-8-thursday-january-4-2018)
+      * [#enki #shopifyapp #mooc](#enki-shopifyapp-mooc)
+         * [Today's Progress](#todays-progress-7)
+         * [Thoughts](#thoughts-7)
+         * [Links to Work](#links-to-work-7)
+   * [Day 9: Friday, January 5, 2018](#day-9-friday-january-5-2018)
+      * [#30daysofcode](#30daysofcode-4)
+         * [Today's Progress](#todays-progress-8)
+         * [Thoughts](#thoughts-8)
+         * [Links to Work](#links-to-work-8)
+   * [Day 10: Saturday, January 6, 2018](#day-10-saturday-january-6-2018)
+      * [#30daysofcode](#30daysofcode-5)
+         * [Today's Progress](#todays-progress-9)
+         * [Thoughts](#thoughts-9)
+         * [Links to Work](#links-to-work-9)
 
 Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
@@ -174,3 +194,18 @@ Push, push, push! Did 6 days worth of the 30 days of code challenge today. A lot
 * [Day 22 - Binary Search Trees](java/r1d9-d22-binary-search-trees.java)
 * [Day 23 - BST Level-Order Transversal](java/r1d9-d23-bst-level-order-transveral.java)
 * [Day 24 - More Linked Lists](java/r1d9-d24-more-linked-lists.java)
+
+# Day 10: Saturday, January 6, 2018
+
+## #30daysofcode
+
+### Today's Progress
+Worked on only one challenge
+
+### Thoughts
+Today's challenge was a lot hard than I should have made it. But I think I learned quite a bit about how I can make my algorithm more efficient. Failing the time limit and complexity test cases really made me re-think about how to approach this problem. I had originally decided to use what I learnt from Enki, about the Sieve of Eratosthenes and Primality test. After I got my head around the Sieve and implemneted it, for some reason it was less efficient. I think there are only certain cases where the Primality test as described by Enki becomes more efficient by using the Sieve. Additionally, if we have to create the Sieve as part of the Primality test, it adds to the overhead. I believe if the Sieve was created once and reused over by the multiple numbers, the test would have been quicker.
+
+I'll put this in my to do list of side projects to test this theory.
+
+### Links to Work
+* [Day 25 - Running Time and Complexity](java/r1d10-d25-running-time-and-complexity.java)
