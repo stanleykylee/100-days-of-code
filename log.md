@@ -53,6 +53,11 @@ Table of Contents
          * [Today's Progress](#todays-progress-9)
          * [Thoughts](#thoughts-9)
          * [Links to Work](#links-to-work-9)
+   * [Day 11: Sunday, January 7, 2018](#day-11-sunday-january-7-2018)
+      * [#30daysofcode #hackerrank](#30daysofcode-hackerrank)
+         * [Today's Progress](#todays-progress-10)
+         * [Thoughts](#thoughts-10)
+         * [Links to Work](#links-to-work-10)         
 
 Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
@@ -209,3 +214,24 @@ I'll put this in my to do list of side projects to test this theory.
 
 ### Links to Work
 * [Day 25 - Running Time and Complexity](java/r1d10-d25-running-time-and-complexity.java)
+
+# Day 11: Sunday, January 7, 2018
+
+## #30daysofcode #hackerrank
+
+### Today's Progress
+Completed the 30 days of code and did one bash challenge
+
+### Thoughts
+Completed the rest of the 30 days of code challenges! Exciting times as it means now I will look towards my next goals. I'll have to decide which to prioritze tomorrow but thoughts on today's challenges. I didn't feel that the testing challenge was able to provide any insights on Test Driven Development (TDD). TDD was something that was explained to me by a previous co-worker and it is something that I was looking forward to learning and practicing. The challenge for testing here only requested for some simple STDOUT checks. I hope that the Katas will provide a better experience.
+
+On top of that, I felt the regex pattern challenge also missed its mark. The challenge didn't really require any use of regex and even the editorial ended up with only using a simple match for the string "@gmail.com". I would have wanted the requirement to search for users with emails who have for example repeated letters, numerals only or ending in numericals. These would push the requirement to use regex and would throw out the simple string match as shown in the editorial.
+
+That aside, I'm happy I've completed the 30 days of code. It has been a good warm up. Onwards and upwards!
+
+### Links to Work
+* [Day 26 - Nested Logic](java/r1d11-d26-nested-logic.java)
+* [Day 27 - Testing](java/r1d11-d27-testing.java)
+* [Day 28 - RegEx Patterns and Intro to Databases](java/r1d11-d28-regex-patterns-and-intro-to-databases.java)
+* [Day 29 - Bitwise AND](java/r1d11-d29-bitwise-and.java)
+* [Challenge 3 - A Personalized Echo](bash/r1d11-c3-a-personalized-echo.sh)

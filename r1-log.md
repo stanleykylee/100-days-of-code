@@ -33,3 +33,6 @@ Got through Day 12: Inheritance today. Got stuck a bit on the constructor, didn'
 
 ### R1D10
 #100DaysOfCode #R1D10 Another day of code done, that's 10 days now! I got a bit stuck with the primality test today and didn't get to go through as much as I would have liked. However, I was able to finally wrap my head around algorithm efficiencies and complexities.
+
+### R1D11
+#100DaysOfCode #R1D11 Success! 30 Days of Code from @hackerrank completed now. For those on the same quest, don't give up, and push through! In the last 11 days, I had thoughts of taking a rest due to one reason or another. But taking a slow day is OK, just keep going!
